@@ -32,3 +32,5 @@ level = 1;
 hp = 100;
 can_be_hit = true;
 hit_delay = 30; // Every 0.5s bc 60 fps
+
+max_rounds = 10;

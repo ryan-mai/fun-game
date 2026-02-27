@@ -1,3 +1,7 @@
+if (level >= max_rounds) {
+    show_message("You Won! Time to play again...");
+    game_restart();
+}
 if (hp <= 0) {
 	room_restart();
 }
@@ -41,3 +45,5 @@ y += vsp;
 
 x = round(x);
 y = round(y);
+
+move_wrap(true, true, sprite_width / 2);
