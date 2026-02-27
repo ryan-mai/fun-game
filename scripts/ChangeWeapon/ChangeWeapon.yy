@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ChangeWeapon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ChangeWeapon",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
